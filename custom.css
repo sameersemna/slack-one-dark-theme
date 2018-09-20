@@ -1767,3 +1767,8 @@ feature_archive_deeplink feature_texty winssb light_theme {
   margin-left: 20px !important; }
 
 /*# sourceMappingURL=custom.css.map */
+
+/* SHS */
+.c-message_attachment__pretext {
+  color: var(--text) !important;
+}
