@@ -61,9 +61,9 @@ hr {
   border-top: 1px solid var(--border-bright); }
 
 a, a:link, a:visited {
-  color: var(--text-special); }
-  a:hover, a:link:hover, a:visited:hover {
-    color: var(--text-special); }
+  color: var(--text-special) !important; }
+a:hover, a:link:hover, a:visited:hover {
+  color: var(--text-special) !important; }
 
 code {
   color: var(--text-special) !important;
